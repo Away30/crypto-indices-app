@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# documentation guides (not needed in repo)
+API_IMPLEMENTATION.md
+REAL_API_GUIDE.md
+VERCEL_DEPLOYMENT.md
+VIDEO_RECORDING_GUIDE.md
+deploy-to-github.sh
